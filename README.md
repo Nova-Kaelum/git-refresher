@@ -55,9 +55,7 @@ Sure, here are some tips for practicing Git commands and workflows:
     - Review and merge pull requests.
 
 11. **Using .gitignore:**
-    - Create a 
-
-.gitignore
+    - Create a .gitignore to avoid pushing directories or files that should be individual to your IDE or project for example (node modules dir, vscode dir, launch.json file...)
 
  file to exclude files and directories from being tracked.
 
