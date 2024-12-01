@@ -6,10 +6,6 @@ https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet
 
 # Tips for practice
 
-Sure, here are some tips for practicing Git commands and workflows:
-
-### Git Practice Tips
-
 1. **Understand the Basics:**
    - Learn the basic commands: `git init`, `git add`, `git commit`, `git status`, `git log`, `git diff`.
    - Understand the difference between the working directory, staging area, and repository.
@@ -56,8 +52,6 @@ Sure, here are some tips for practicing Git commands and workflows:
 
 11. **Using .gitignore:**
     - Create a .gitignore to avoid pushing directories or files that should be individual to your IDE or project for example (node modules dir, vscode dir, launch.json file...)
-
- file to exclude files and directories from being tracked.
 
 12. **Explore Advanced Features:**
     - Learn about Git hooks.
