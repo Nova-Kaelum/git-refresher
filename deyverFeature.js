@@ -1,3 +1,2 @@
-//this is an example for merge 
-
-console.log("Access granted nigga")
+console.log("Feature 2: Hello from feature branch 2");
+console.log("Access granted. Welcome.");
